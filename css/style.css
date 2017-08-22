@@ -1,0 +1,164 @@
+.a {
+  height: 28px;
+  width: 28px;
+  display: inline-block;
+  margin-left: 8px;
+}
+.heder {
+  height: 173px;
+  background-color: #425e6a;
+}
+.heder .call {
+  display: inline-block;
+  color: #ffffff;
+  font-size: 26px;
+  max-width: 500px;
+  margin-right: 10px;
+  float: right;
+}
+.heder .call .bold {
+  font-weight: bold;
+  font-size: 26px;
+}
+.heder .button {
+  text-align: center;
+  line-height: 26px;
+  width: 155px;
+  height: 30px;
+  display: inline-block;
+  float: right;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.heder .button a {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  width: 153px;
+  height: 28px;
+  display: block;
+}
+.heder .button a:hover {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: red;
+  border: 0px solid #ffffff;
+}
+.heder .button .sotial-images {
+  margin-top: 55px;
+  float: right;
+}
+.heder .button .sotial-images .google {
+  height: 28px;
+  width: 28px;
+  display: inline-block;
+  margin-left: 8px;
+  background: url(../img/google-plus.png) center;
+}
+.heder .button .sotial-images .google:hover {
+  background: url(../img/google-plus-red.png) center;
+}
+.heder .button .sotial-images .linkedin {
+  height: 28px;
+  width: 28px;
+  display: inline-block;
+  margin-left: 8px;
+  background: url(../img/linkedin.png) center;
+}
+.heder .button .sotial-images .linkedin:hover {
+  background: url(../img/linkedin-red.png) center;
+}
+.heder .button .sotial-images .facebook {
+  height: 28px;
+  width: 28px;
+  display: inline-block;
+  margin-left: 8px;
+  background: url(../img/facebook.png) center;
+}
+.heder .button .sotial-images .facebook:hover {
+  background: url(../img/facebook-red.png) center;
+}
+.heder .button .sotial-images .twitter {
+  height: 28px;
+  width: 28px;
+  display: inline-block;
+  margin-left: 8px;
+  background: url(../img/twitter.png) center;
+}
+.heder .button .sotial-images .twitter:hover {
+  background: url(../img/twitter-red.png) center;
+}
+.header-menu {
+  height: 115px;
+  backround-color: #FFFFFF;
+  text-align: center;
+}
+.header-menu .menu-header .menu-elem {
+  display: inline-block;
+  text-transform: uppercase;
+  line-height: 115px;
+}
+.header-menu .menu-header .menu-elem a {
+  color: black;
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin-left: 20px;
+}
+.header-menu .menu-header .menu-elem a:hover {
+  text-decoration: none;
+  color: red;
+}
+.menu-select {
+  display: inline-block;
+  margin-left: 20px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption {
+  backround: #58727c;
+  padding: 0px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .title {
+  text-align: left;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .title h2 {
+  text-transform: uppercase;
+  font-size: 27px;
+  margin-bottom: 1px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .title h3 {
+  margin-top: 2px;
+  margin-bottom: 30px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .form {
+  margin-bottom: 40px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .form h1 {
+  font-size: 28px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .form form {
+  background-color: #3a545d;
+  padding: 7px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .form form input {
+  padding-left: 10px;
+  width: 290px;
+  height: 40px;
+  margin: 5px;
+  color: black;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .form form .submit {
+  padding-left: 10px;
+  width: 290px;
+  height: 40px;
+  background: #1c262f;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .form form textarea {
+  padding-left: 10px;
+  resize: none;
+  color: black;
+  margin: 5px;
+}
+.slider .carousel .carousel-inner .item .carousel-caption .form form .more_info {
+  color: white;
+  text-decoration: none;
+  z-index: 9999;
+}
